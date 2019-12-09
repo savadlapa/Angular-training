@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "bookName": "The Secret",
+      "author": "Rhonda Byrne",
+      "price": 550
+    },
+    {
+      "id": 2,
+      "bookName": "The Monk Who Sold His Ferrari",
+      "author": "Robin Sharma",
+      "price": 300
+    }
+  ]
+}
